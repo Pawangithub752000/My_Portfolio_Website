@@ -16,7 +16,7 @@ const Profile = () => {
                <h1 className='text text-center font-weight-bold'>Hello, I am Pawan👋</h1>
                <div>
                  <p className='text text-center  my-5 h3'>
-                 💻Full-Stack web developer with a degree in Computer Science Engineering who believes in sharing knowledge, 
+                 💻Full-Stack web developer with a B.Tech degree in Computer Science Engineering who believes in sharing knowledge, 
                  loves JavaScript and can spare hours talking about it. My experience and learnings in this field have helped me 
                  garner the required skill-set to be a successful web developer.
                  </p>

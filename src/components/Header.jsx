@@ -69,7 +69,7 @@ const Header = () => {
                 />
               </svg>
             </a>
-            <a href="https://drive.google.com/drive/folders/1ZsQbEtNHKYr0V4QhyK6NBE_dFqvJO6IC?usp=sharing">
+            <a href="https://drive.google.com/file/d/16rGONqlja-y9QIO4g3mkvE8lfrx-boCF/view?usp=sharing" target="_blank" >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width="36"
