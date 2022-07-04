@@ -21,7 +21,7 @@ const Profile = () => {
                  garner the required skill-set to be a successful web developer.
                  </p>
                </div>
-               <a href="https://drive.google.com/file/d/16rGONqlja-y9QIO4g3mkvE8lfrx-boCF/view?usp=sharing" target="_blank">
+               <a href="https://drive.google.com/drive/folders/1ZsQbEtNHKYr0V4QhyK6NBE_dFqvJO6IC?usp=sharing" target="_blank">
                <button className='btn btn-primary px-5 py-2'>RESUME</button>
                </a>
                
